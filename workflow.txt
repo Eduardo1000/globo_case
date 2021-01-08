@@ -1,0 +1,8 @@
+Atividades a serem realizadas
+1) Baixar o Dataset
+2) Criar um Banco de Dados
+3) Criar um Notebook e fazer uma análise exploratória dos dados
+4) Elaborar Hipóteses e criar modelos
+5) Analisar Resultados(se resultados forem ruins, voltar para 3)
+6) Estruturas as consultas SQL que foram utilizadas
+7) Descrever a Metodologia(o que eu pensei), os Resultados e Desempenho Computacional
