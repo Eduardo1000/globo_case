@@ -6,3 +6,6 @@ dependencies:
     - pandas
     - jupyter
     - matplotlib
+    - mlflow
+    - sklearn
+    - seaborn
