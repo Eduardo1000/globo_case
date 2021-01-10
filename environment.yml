@@ -9,3 +9,4 @@ dependencies:
     - mlflow
     - sklearn
     - seaborn
+    - lightgbm
